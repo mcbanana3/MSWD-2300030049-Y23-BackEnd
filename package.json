@@ -1,0 +1,27 @@
+{
+  "name": "gunturmotorways",
+  "version": "1.0.0",
+  "description": "mern stack project for wednesday review",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcbanana3/MSWD-2300030049-Y23-BackEnd.git"
+  },
+  "author": "Aryan Yalavarthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcbanana3/MSWD-2300030049-Y23-BackEnd/issues"
+  },
+  "homepage": "https://github.com/mcbanana3/MSWD-2300030049-Y23-BackEnd#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.3",
+    "nodemon": "^3.1.7"
+  }
+}
